@@ -18,3 +18,8 @@
 NatureShell이라는 언어를 통해서. 
 
 ----
+
+[1. 개요](https://github.com/Rangdy-Kor/Rangdys-Defrag/blob/main/Projects/NatureShell/1_Philosophy.md)
+[2. 설계](https://github.com/Rangdy-Kor/Rangdys-Defrag/blob/main/Projects/NatureShell/Specs/2_Architecture.md)
+    [2.1 주석](https://github.com/Rangdy-Kor/Rangdys-Defrag/blob/main/Projects/NatureShell/Specs/2.1_Comments.md)
+    [2.2 권한](https://github.com/Rangdy-Kor/Rangdys-Defrag/blob/main/Projects/NatureShell/Specs/2.2_Permissions.md)
