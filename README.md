@@ -14,7 +14,7 @@
 
 ## 🗂️Proejcts
 
-- [**NatureShell**](https://rangdy-kor.github.io/Rangdys-Defrag/Projects/NatureShell/) - 품사 (Part fo Speech) 개념을 도입하여 인간의 언어 구조를 닮은 새로운 셸 스크립팅 언어 설계 및 구현
+- [**NatureShell**](https://github.com/Rangdy-Kor/Rangdys-Defrag/tree/main/Projects/NatureShell) - 품사 (Part fo Speech) 개념을 도입하여 인간의 언어 구조를 닮은 새로운 셸 스크립팅 언어 설계 및 구현
 
 ----
 
